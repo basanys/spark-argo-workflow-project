@@ -7,7 +7,7 @@
 
 - create and apply secrets and configmaps
 
-### Spark Job
+### Spark Jobs
 1. Download Data Job 
  - Build and push Dockerfile.download-job
  - Add download-job workflow to bike-workflow.yaml
