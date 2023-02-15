@@ -1,0 +1,5 @@
+venv/
+.env
+*.csv
+download-config.yml
+download-secrets.yml
